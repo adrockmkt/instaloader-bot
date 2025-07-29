@@ -60,7 +60,8 @@ docker compose up
 
 ---
 
-> Feito com ❤️ por [Ad Rock Digital Mkt](https://adrock.digital)
+> Feito com ❤️ por [Ad Rock Digital Mkt](https://adrock.com.br)
+
 # 🤖 Instaloader Bot
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
