@@ -131,4 +131,4 @@ docker compose up
 
 ---
 
-> Feito com ❤️ por [Ad Rock Digital Mkt](https://adrock.digital)
+> Feito com ❤️ por [Ad Rock Digital Mkt](https://adrock.com.br)
